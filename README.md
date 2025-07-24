@@ -57,7 +57,7 @@ Younger, low-usage customers are at **high risk**.
 - Churn is high at **both low and high ends** of data usage  
 This may reflect dissatisfaction with **plan value or performance**.
 
-### ⚔Competitor Pressure  
+### Competitor Pressure  
 - Many customers cited **better offers and devices** from competitors  
 - Urges the need to **match or exceed** competitor value
 
