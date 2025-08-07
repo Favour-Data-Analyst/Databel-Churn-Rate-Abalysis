@@ -2,8 +2,7 @@
 <img width="650" height="569" alt="IMG_20250720_194522_763" src="https://github.com/user-attachments/assets/c038a9a7-89bd-4892-8e4b-719382e93d68" />
 
 ## Overview  
-This project analyzes **customer churn** at Databel, focusing on uncovering the **key drivers** behind customer departures.  
-By understanding churn patterns across **states, demographics, and service usage**, this analysis enables stakeholders to design **targeted strategies** that reduce churn-related losses and improve long-term retention.
+This project analyzes **customer churn** at Databel, focusing on uncovering the **key drivers** behind customer departures. By understanding churn patterns across **states, demographics, and service usage**, this analysis enables stakeholders to design **targeted strategies** that reduce churn-related losses and improve long-term retention.
 
 ## Problem Statement  
 Databel is facing a **high customer attrition rate**, which poses a serious risk to revenue, market share, and growth.  
